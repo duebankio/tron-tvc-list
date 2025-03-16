@@ -12,7 +12,7 @@ Follow the steps below to add a new token：
       "decimals": 18,
       "logoURI": "https://ibb.co/h1cFYgBp",
       "homepage": "https://duebank.io/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "MarketCapLink": "https://coinmarketcap.com/currencies",
       "existingMarkets": [
           {
               "source": "sunswap",
