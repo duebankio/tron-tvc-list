@@ -6,33 +6,32 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
-      "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
+      "address": "TLmhyosmKNxuGwLHVcwZ8YEBFiV7atBU8m",
+      "symbol": "DBT",
+      "name": "DueBankToken",
+      "decimals": 18,
+      "logoURI": "https://ibb.co/h1cFYgBp",
+      "homepage": "https://duebank.io/",
       "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
       "existingMarkets": [
           {
-              "source": "Binance",
+              "source": "sunswap",
               "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
+                  "DBT/USDT",
+                  "DBT/TRX",
+                  
               ]
           },
           {
-              "source": "Poloniex",
+              "source": "DUEBANK",
               "pairs": [
-                  "WIN/USDT"
+                  "DBT/USDT"
               ]
           },
           {
-              "source": "KuCoin",
+              "source": "SUNSWAP",
               "pairs": [
-                  "WIN/USDT"
+                  "DBT/USDT"
               ]
           }
     ]
