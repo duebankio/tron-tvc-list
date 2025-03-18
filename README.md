@@ -10,7 +10,7 @@ Follow the steps below to add a new token：
       "symbol": "DBT",
       "name": "DueBankToken",
       "decimals": 18,
-      "logoURI": "https://ibb.co/h1cFYgBp",
+      "logoURI": "https://duebank.io/logo.png",
       "homepage": "https://duebank.io/",
       "MarketCapLink": "https://coinmarketcap.com/currencies",
       "existingMarkets": [
